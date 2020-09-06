@@ -15,4 +15,5 @@ Run *rdt_main.py* with Python3.
 ## Run in Google Colaboratory
 
 1. Vist https://colab.research.google.com/drive/177iCJ5qfdEHaIQOL4I_gNL4AJ3IH1l1d?usp=sharing
-2. Select Select Runtime-> Run all
+1. Select Runtime-> Factory reset runtime
+1. Select Select Runtime-> Run all
