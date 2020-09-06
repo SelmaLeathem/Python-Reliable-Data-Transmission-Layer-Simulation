@@ -11,7 +11,7 @@ import time
 from rdt_layer import *
 
 ################# Main ####################
-################# Main ####################
+
 
 # The strings that are sent over the unreliable channel
 
