@@ -11,3 +11,8 @@ Coded a reliable transmission layer on top of an unreliable channel similar to t
 ## Instructions
 
 Run *rdt_main.py* with Python3.
+
+## Run in Google Colaboratory
+
+1. Vist https://colab.research.google.com/drive/177iCJ5qfdEHaIQOL4I_gNL4AJ3IH1l1d?usp=sharing
+2. Select Select Runtime-> Run all
