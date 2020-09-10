@@ -1,6 +1,6 @@
 # Python Simulate a Reliable Transmission Layer on An Unreliable Channel
 
-Developed a reliable transmission layer on top of an unreliable channel similar to the transport layer in the internet protocol stack using Python. Features include: 
+Developed a simulation of a reliable transmission layer on top of an unreliable channel similar to the transport layer in the internet protocol stack in Python. Features include: 
 
 *  The number of packets sent are limited by the size of the flow control window. 
 *  A cumulative ack is implemented by sending one acknowledgement per every FLOW_CONTROL_WIN_SIZE/DATA_LENGTH number of segments sent out. The value of the ACK number is the largest segment number of the group of packets plus the size of the payload. 
