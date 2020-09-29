@@ -10,7 +10,7 @@ Developed a simulation of a reliable transmission layer on top of an unreliable 
 
 ## Instructions
 
-Run *rdt_main.py* with Python3.
+Run *main.py* with Python3.
 
 ## Run in Google Colaboratory
 
